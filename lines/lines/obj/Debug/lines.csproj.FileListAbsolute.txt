@@ -1,0 +1,12 @@
+C:\Users\eisik\source\repos\lines\lines\bin\Debug\lines.exe.config
+C:\Users\eisik\source\repos\lines\lines\bin\Debug\lines.exe
+C:\Users\eisik\source\repos\lines\lines\bin\Debug\lines.pdb
+C:\Users\eisik\source\repos\lines\lines\bin\Debug\ExcelDataReader.dll
+C:\Users\eisik\source\repos\lines\lines\bin\Debug\ExcelDataReader.pdb
+C:\Users\eisik\source\repos\lines\lines\bin\Debug\ExcelDataReader.xml
+C:\Users\eisik\source\repos\lines\lines\obj\Debug\lines.csproj.AssemblyReference.cache
+C:\Users\eisik\source\repos\lines\lines\obj\Debug\lines.csproj.SuggestedBindingRedirects.cache
+C:\Users\eisik\source\repos\lines\lines\obj\Debug\lines.csproj.CoreCompileInputs.cache
+C:\Users\eisik\source\repos\lines\lines\obj\Debug\lines.csproj.CopyComplete
+C:\Users\eisik\source\repos\lines\lines\obj\Debug\lines.exe
+C:\Users\eisik\source\repos\lines\lines\obj\Debug\lines.pdb
